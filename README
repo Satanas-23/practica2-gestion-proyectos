@@ -1,0 +1,17 @@
+echo "# Mi Primer Proyecto" > README.md
+echo "" >> README.md
+echo "## Descripción" >> README.md
+echo "Este es mi primer proyecto subido a GitHub para la práctica de gestión de proyectos." >> README.md
+echo "" >> README.md
+echo "## Tecnologías Utilizadas" >> README.md
+echo "- HTML" >> README.md
+echo "- CSS" >> README.md
+echo "- JavaScript" >> README.md
+echo "" >> README.md
+echo "## Instalación" >> README.md
+echo "1. Clonar el repositorio" >> README.md
+echo "2. Abrir index.html en el navegador" >> README.md
+echo "" >> README.md
+echo "## Autor" >> README.md
+echo "[Tu nombre]" >> README.md
+echo "[Tu grupo]" >> README.md
